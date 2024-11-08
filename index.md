@@ -18,3 +18,9 @@ I wrote my first headings.
 const text = "Mamma Mia!"
 console.log(text)
 ```
+
+# First list as well
+
+- [x] Turn on laptop
+- [ ] Work
+- [ ] Study
